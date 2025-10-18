@@ -1,6 +1,4 @@
-<div align="center">
 
-<img src="drl-logo.png" alt="Distributed Rate Limiter Logo" width="200" height="200">
 
 # 🚀 Distributed Rate Limiter
 
